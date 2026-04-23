@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT student | Learning ML & AI tools  <br>Building real-world projects with Python, React & frontend tech  <br>Curious learner • Project-driven • Always improving<br>
+IT student | Learning ML & AI tools | Data Science enthusiast  <br>Building real-world projects with Python, React & frontend tech  <br>Curious learner • Project-driven • Always improving<br>
 
 
 ## 🌐 Socials:
